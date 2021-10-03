@@ -6,8 +6,8 @@
         Project Management
 
 - 💡 I’m currently learning ...
-        Unity, 
-        Windows & Linux Penetration
+        Game Dev, 
+        Windows & Linux
 
 - 📫 You can email me at ...
         rustelias@gmail.com
