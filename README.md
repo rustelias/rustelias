@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @rustelias
 
-- 🌞 I’m interested in ...
-        Game Dev,
-        Infosec, 
-        Project Management
-
 - 💡 I’m currently learning ...
-        Game Dev, 
-        Windows & Linux
-
+        🦀  Rust,
+        🌐  Computer Networking,
+        🎲  Game dev,
+        
 - 📫 You can email me at ...
         rustelias@gmail.com
 
