@@ -6,7 +6,7 @@
         🎲  Game dev,
         
 - 📫 You can email me at ...
-        rustelias@gmail.com
+        eli@eliasrust.com,
 
 - 🤝 Connect with me ...
         on LinkedIn! https://www.linkedin.com/in/elias-rust
