@@ -20,9 +20,9 @@ I'm a network engineer with a passion for programming and all things computers!
               ♾️  Arduino
               
         
--  📫 You can email me at
-* eli@eliasrust.com,
+*  📫 You can email me at
+   * eli@eliasrust.com
 
-- 🤝 Connect with me ...
-* on [LinkedIn @ elias-rust](https://www.linkedin.com/in/elias-rust)
-* on [Itch.io @ rustelias](https://rustelias.itch.io)		
+* 🤝 Connect with me ...
+  * on [LinkedIn @ elias-rust](https://www.linkedin.com/in/elias-rust)
+  * on [Itch.io @ rustelias](https://rustelias.itch.io)		
