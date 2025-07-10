@@ -3,7 +3,7 @@
 
 I'm a network engineer with a passion for programming and all things computers!
 
-## 💡 Currently learning or interested in...
+## 💡 Currently learning...
         ⌨️  Programming
               🦀 Rust
               🐍 Python 
@@ -16,7 +16,7 @@ I'm a network engineer with a passion for programming and all things computers!
               🤖  Godot
 
         ⌚  Embedded
-              🛜  ESP32
+              📡  ESP32
               ♾️  Arduino
               
         
