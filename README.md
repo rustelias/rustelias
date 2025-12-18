@@ -10,6 +10,7 @@ I'm a network engineer with a passion for programming and all things computers!
               
         🌐  Network Automation
               ⚙️  Ansible
+              🔮  Azure DevOps
               📖  TextFSM
               
         🎲  Game dev 
